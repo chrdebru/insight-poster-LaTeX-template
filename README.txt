@@ -1,0 +1,3 @@
+The insight poster class assumes that the authors already have installed the Ubuntu fonts on their system. And also assumes that the authors use XeLaTex to compile the poster in order to access those fonts. Ubuntu fonts can be obtained from http://font.ubuntu.com/
+
+Warning. If the results look odd after compiling -- e.g., the banners are in the wrong place -- try compiling again. That usually works.

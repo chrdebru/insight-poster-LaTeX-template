@@ -1,6 +1,6 @@
 % Author: Christophe Debruyne - christophe.debruyne@insight-centre.org
 
-% This class assumes that the authors already has installed the Ubuntu
+% This class assumes that the authors already have installed the Ubuntu
 % fonts on their system. And also assumes that the authors use XeLaTex
 % to compile the poster in order to access those fonts.
 % Ubuntu fonts can be obtained from http://font.ubuntu.com/
